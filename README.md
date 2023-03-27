@@ -1,2 +1,2 @@
-# Project-Predicting-Customer-Churn-in-Telecom-Operators
+# Classification_Predicting_Customer_Churn_in_Telecom_Operators
 ML in Python
